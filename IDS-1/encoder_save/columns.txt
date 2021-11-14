@@ -1,0 +1,5 @@
+wlan.fc.type_subtype
+wlan.fc.type
+wlan.fc.subtype
+wlan.fc.ds
+wlan.fc.protected

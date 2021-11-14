@@ -1,0 +1,5 @@
+AssociationRequest
+AssociationResponse
+Authentication
+Deauthentication
+Normal

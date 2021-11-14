@@ -1,0 +1,4 @@
+frame.time_delta_displayed
+frame.len
+wlan.duration
+wlan.seq

@@ -1,0 +1,13 @@
+frame.time_epoch
+frame.time_delta
+frame.time_delta_displayed
+frame.time_relative
+frame.len
+frame.cap_len
+radiotap.length
+radiotap.mactime
+radiotap.datarate
+radiotap.channel.freq
+wlan.duration
+wlan.frag
+wlan.seq
